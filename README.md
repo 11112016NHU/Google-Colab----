@@ -6,7 +6,7 @@ Google Colab基本操作<br/>
 网站：Google Colab<br/>
 
 進入Google Colab網站-》新建項目<br/>
-![image](https://github.com/ojiver/AI/blob/main/1.jpg?raw=true)
+![image]([https://github.com/ojiver/AI/blob/main/1.jpg?raw=true](https://github.com/11112016NHU/Google-Colab----/blob/main/%E8%9E%A2%E5%B9%95%E6%93%B7%E5%8F%96%E7%95%AB%E9%9D%A2%202025-10-27%20002443.png))
 新建项目<br/>
 创建完项目之后我们就可以进入Colab的主界面了。<br/>
 ![image](https://github.com/ojiver/AI/blob/main/2.jpg?raw=true)
